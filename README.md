@@ -8,8 +8,7 @@
 
 <a href='mailto://lmsa.moreira@gmail.com'><img width="50" height="40" src='https://image.flaticon.com/icons/svg/2991/2991144.svg'></a>
 <a href='https://www.linkedin.com/in/lucas-moreira-e-silva-alves-909721174/'><img width="50" height="40" padding-right='10' src='https://image.flaticon.com/icons/svg/174/174857.svg'/></a> 
-<a href='https://www.instagram.com/lucasmsa'><img width="50" height="40" src='https://image.flaticon.com/icons/svg/174/174855.svg'/></a> 
-<a href='https://open.spotify.com/user/lordinho2?si=0fpBbV6qSjqIDvPq4Har1w'><img width="50" height="40" src='https://image.flaticon.com/icons/svg/174/174872.svg'/></a>
+
 
 <br>
 
