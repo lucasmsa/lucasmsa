@@ -1,6 +1,6 @@
 ## Hi there <img width="90" height="70" src='https://media2.giphy.com/media/8Pvp9okT4Qaf5k5IRC/source.gif' enconde></img>
 
-* #### My name is Lucas Moreira 🇧🇷 and I'm on an Extension-program project on my university (UFPB) where I mainly work with Python, predominantly doing data-cleaning and making scripts for large datasets
+* #### My name is Lucas Moreira 🇧🇷 and I'm on an Extension-program project at my university (UFPB) where I mainly work with Python, predominantly doing data-cleaning and making scripts for large datasets
 * #### I also have a lot of interest and am currently learning web and mobile development, focusing on Typescript, NodeJS, ReactJS and React-Native
 <br>
 
