@@ -1,7 +1,7 @@
 # Hi there <img width="90" height="70" src='https://media2.giphy.com/media/8Pvp9okT4Qaf5k5IRC/source.gif' enconde></img>
 
-* ### My name is Lucas Moreira 🇧🇷 and at the moment I'm on an internship on chatbot development, learning more about NLP systems and web scrappers 🤖
-* ### I'm also developing and am the co-founder of ICods, a way of sharing gift messages via QR Codes. Developing with Node.js and React-Native with Typescript 🎁
+* ### My name is Lucas Moreira, I'm a Computer Engineering student at UFPB 🇧🇷. At the moment I'm on an internship on chatbot development, learning more about NLP systems and web scrappers 🤖
+* ### I'm also developing and am the co-founder of ICods, a way of sharing gift messages via QR Codes. Developing on Node.js and React-Native with Typescript 🎁
 * ### I also have a lot of interest and am currently learning Data Science, Machine Learning, also looking forward to deepening my knowledge on Elixir and Phoenix 🐉
 <br>
 
