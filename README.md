@@ -5,7 +5,7 @@
 * #### I also have a lot of interest and am currently learning Data Science and Machine Learning. As well as deepening my knowledge on Elixir and Phoenix 🐉
 <br>
 
-## Contact 🥷🏻
+## Contact 📮
 
 <a href='mailto://lmsa.moreira@gmail.com'><img width="50" height="40" src='https://image.flaticon.com/icons/svg/2991/2991144.svg'></a>
 <a href='https://www.linkedin.com/in/lucas-moreira-e-silva-alves-909721174/'><img width="50" height="40" padding-right='10' src='https://image.flaticon.com/icons/svg/174/174857.svg'/></a> 
