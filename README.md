@@ -7,7 +7,7 @@
 ## Contact 📮
 
 <a href='mailto://lmsa.moreira@gmail.com'><img width="50" height="50" src='https://cdn-icons-png.flaticon.com/512/732/732200.png'></a>
-<a href='https://www.linkedin.com/in/lucas-moreira-e-silva-alves-909721174/'><img width="50" height="51" paddingleft='10' src='https://image.flaticon.com/icons/svg/174/174857.svg'/></a> 
+<a href='https://www.linkedin.com/in/lucas-moreira-e-silva-alves-909721174/'><img width="50" height="51" paddingleft='10' src='https://cdn-icons-png.flaticon.com/512/174/174857.png'/></a> 
 
 
 <br>
