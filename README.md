@@ -1,7 +1,9 @@
 # Hi there <img width="90" height="70" src='https://media2.giphy.com/media/8Pvp9okT4Qaf5k5IRC/source.gif' enconde></img>
 
-* #### My name is Lucas Moreira, I'm a Computer Engineering student at UFPB 🇧🇷. At the moment I'm developing and am the co-founder of @ICods, a way of sharing gift messages via QR Codes. Developing on Node.js and React-Native with Typescript 🎁
-* #### I also have a lot of interest and am currently learning Data Science and Machine Learning. As well as deepening my knowledge on Elixir and Phoenix 🐉
+* #### My name is Lucas Moreira, I'm a Computer Engineering student at UFPB 🇧🇷. At the moment I'm developing and am the co-founder of @ICods, a way of sharing gift messages via QR Codes. Developing on Node.js, React-Native and Next.js with Typescript 🎁
+* #### I'm also working as a React-Native developer at Ília Digital 📱
+* #### I really like to develop personal projects, I am currently doing Hiit-Maker to ease and personalize your HIIT workouts 🏋🏻 
+* #### I also have a lot of interest and am currently learning Data Science and Machine Learning  ⚙️
 <br>
 
 ## Contact 📮
