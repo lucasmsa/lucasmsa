@@ -1,21 +1,30 @@
-# Hi there! <img width="90" height="70" src='https://media2.giphy.com/media/8Pvp9okT4Qaf5k5IRC/source.gif' enconde></img>
+# 🚀 Hi there! 
 
-* #### My name is Lucas Moreira, I'm a Computer Engineering student at UFPB 🇧🇷 
-* #### At the moment I'm also working as a Front-end developer at Ília Digital 💻
-* #### I really like to develop personal projects, I've recently made a web-app called Hiit-Maker to ease and personalize your HIIT workouts 🏋🏻
-* #### Currently I am learning more about serverless and AWS functions ⛅︎ 
-* #### I also have a lot of interest in Data Science and Machine Learning  ⚙️
-<br>
+### I'm an enthusiastic software engineer with a passion for application development. Here's a glimpse of what I'm up to now:
 
-## Contact 📮
+- 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
 
-<a href='mailto://lmsa.moreira@gmail.com'><img width="50" height="50" src='https://cdn-icons-png.flaticon.com/512/732/732200.png'></a>
-<a href='https://www.linkedin.com/in/lucas-moreira-e-silva-alves-909721174/'><img width="45" height="45" paddingleft='20' src='https://cdn-icons-png.flaticon.com/512/174/174857.png'/></a> 
+- 📚 Learning more about scalability, microservices architecture and algorithms
 
+- 🎓 Currently concluding my undergraduate degree in **Computer Engineering at UFPB**
+
+- 🤖 Love creating fun personal projects!
 
 <br>
 
-## Github Stats 📊
-<a href="https://github.com/lucasmsa/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmsa&hide=contribs&theme=default" />
-</a>
+
+## 👾 Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasmsa/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasmsa/) 
+
+
+<br>
+
+## 📊 Github Stats 
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasmsa&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmsa&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=lucasmsa&icon=8&color=6)](https://visitcount.itsvg.in)
