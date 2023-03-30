@@ -2,7 +2,6 @@
 
 ### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
 
-<br>
 
 - #### 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
 
