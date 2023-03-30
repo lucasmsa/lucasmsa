@@ -1,13 +1,4 @@
-<table>
-  <tr>
-    <td style='border: none'>
-        <img src='./assets/puzzle-icon.svg' width=108/> 
-    </td>
-    <td rowspan="2" style='border: none'>
-        <h1>Hey there!</h1>
-    </td>
-  </tr>
-</table>
+<h1><img align="center" src='./assets/puzzle-icon.svg' width=96> Hey there!</h1>
 
 #### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
 
