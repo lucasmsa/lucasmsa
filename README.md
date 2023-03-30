@@ -1,15 +1,16 @@
 <h1><img align="center" src='./assets/puzzle-icon.svg' width=96> Hey there!</h1>
 
-#### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
+### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
 
+<br>
 
-- 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
+- #### 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
 
-- 📚 Learning more about scalability, microservices architecture and algorithms
+- #### 📚 Learning more about scalability, microservices architecture and algorithms
 
-- 🎓 Currently concluding my undergraduate degree in **Computer Engineering at UFPB**
+- #### 🎓 Currently concluding my undergraduate degree in **Computer Engineering at UFPB**
 
-- 🤖 Love creating fun personal projects!
+- #### 🤖 Love creating fun personal projects!
 
 <br>
 
