@@ -1,6 +1,16 @@
-# 🚀 Hi there! 
+<table>
+  <tr>
+    <td style='border: none'>
+        <img src='./assets/puzzle-icon.svg' width=108/> 
+    </td>
+    <td rowspan="2" style='border: none'>
+        <h1>Hey there!</h1>
+    </td>
+  </tr>
+</table>
 
-### I'm an enthusiastic software engineer with a passion for application development. Here's a glimpse of what I'm up to now:
+#### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
+
 
 - 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
 
