@@ -23,9 +23,7 @@
 
 ## 📊 Github Stats 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmsa&show_icons=true&theme=tokyonight" align = "center"/>
-  <br/>
-  <img width="431em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsa&theme=tokyonight&langs_count=3&hide=jupyter%20notebook,HTML,c%23,java,elixir" align = "center"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lucasmsa&show_icons=true&theme=tokyonight" align = "center"/>
 </p>
 
 <br/>
