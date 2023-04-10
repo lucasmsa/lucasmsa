@@ -22,10 +22,12 @@
 <br>
 
 ## 📊 Github Stats 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucasmsa&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmsa&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmsa&show_icons=true&theme=tokyonight" align = "center"/>
+  <br/>
+  <img width="431em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsa&theme=tokyonight&langs_count=3&hide=jupyter%20notebook,HTML,c%23,java,elixir" align = "center"/>
+</p>
 
-<br/>
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=lucasmsa&icon=8&color=6)](https://visitcount.itsvg.in)
