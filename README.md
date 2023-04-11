@@ -23,9 +23,12 @@
 
 ## 📊 Github Stats 
 <p align="left">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lucasmsa&show_icons=true&theme=tokyonight" align = "center"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmsa&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </p>
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=lucasmsa&icon=8&color=6)](https://visitcount.itsvg.in)
+<p height='25em'>
+  <img height="25em" src="https://visitcount.itsvg.in/api?id=lucasmsa&icon=8&color=6" align = "center"/>
+  <img height="25em" src="https://img.shields.io/github/stars/lucasmsa?style=social" align = "center"/>
+</p>
