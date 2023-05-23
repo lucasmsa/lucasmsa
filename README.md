@@ -3,13 +3,13 @@
 ### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
 
 
-- #### 💼 Currently working as a Front-end Developer at Ília - building web and mobile applications using Next.js, React-native, Strapi, Typescript, Sass, and Redux
+- #### 💼 I have work experience with React, React-native, Next.js, Node and Python
 
-- #### 📚 Learning more about scalability, microservices architecture and algorithms
+- #### 📚 Currently I'm learning more about scalability, microservices architecture, algorithms
 
 - #### 🎓 Currently concluding my undergraduate degree in **Computer Engineering at UFPB**
 
-- #### 🤖 Love creating fun personal projects!
+- #### 🤖 I Love creating fun personal projects!
 
 <br>
 
