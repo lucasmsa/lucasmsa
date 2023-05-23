@@ -7,7 +7,7 @@
 
 - #### 📚 Currently I'm learning more about scalability, microservices architecture, algorithms
 
-- #### 🎓 Currently concluding my undergraduate degree in **Computer Engineering at UFPB**
+- #### 🎓 I am currently concluding my undergraduate degree in **Computer Engineering at UFPB**
 
 - #### 🤖 I Love creating fun personal projects!
 
