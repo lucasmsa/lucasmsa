@@ -3,11 +3,9 @@
 ### I'm an enthusiastic software engineer from 🇧🇷 with a passion for application development. Here's a glimpse of what I'm up to now:
 
 
-- #### 💼 I have work experience with React, React-native, Next.js, Node and Python
+- #### 💼 I have work experience with React, React-native, Next.js, Node, Ruby on Rails and Python
 
-- #### 📚 Currently I'm learning more about scalability, microservices architecture, algorithms
-
-- #### 🎓 I'm concluding my undergraduate degree in **Computer Engineering at UFPB**
+- #### 🎓 I'm an undergraduate in **Computer Engineering at UFPB**
 
 - #### 🤖 Love creating fun personal projects!
 
