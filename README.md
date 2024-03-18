@@ -1,8 +1,8 @@
 <h1><img align='center' src='./assets/puzzle-icon.svg' width=96> Hey there!</h1>
 
-### 🌊 Hey! I'm a passionate Software Engineer from Brazil 🇧🇷. I love tackling challenges and building solutions with code.
+### 🌊 Hey! I'm a passionate Software Engineer from Brazil 🇧🇷. I love tackling challenges and building solutions with code
 
-### 💻 I'm currently crafting cool stuff at TapGoods as a Full-stack Developer, diving deeper into React and Ruby on Rails every day.
+### 💻 I'm currently crafting cool stuff at TapGoods as a Full-stack Developer, diving deeper into React and Ruby on Rails every day
 
 <br>
 
