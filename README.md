@@ -2,7 +2,7 @@
 
 ### 🌊 Hey! I'm a passionate Software Engineer from Brazil 🇧🇷. I love tackling challenges and building solutions with code
 
-### 💻 I'm currently crafting cool stuff at TapGoods as a Full-stack Developer, diving deeper into React and Ruby on Rails every day
+### 💻 I'm currently crafting cool stuff at **Koltin** as a Full-stack Developer, diving deeper into Vue.js, React-native and Laravel every day
 
 <br>
 
@@ -15,11 +15,4 @@
 ## 📊 My GitHub Stats
 <p align="left">
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmsa&theme=tokyonight&show_icons=true&include_all_commits=true" />
-</p>
-
-<br/>
-
-<p>
-  <img height="25em" src="https://visitcount.itsvg.in/api?id=lucasmsa&icon=8&color=6"/>
-  <img height="25em" src="https://img.shields.io/github/stars/lucasmsa?style=social"/>
 </p>
