@@ -2,7 +2,7 @@
 
 ### 🌊 Hey! I'm a passionate Software Engineer from Brazil 🇧🇷. I love tackling challenges and building solutions with code
 
-### 💻 I'm currently crafting cool stuff at **Koltin** as a Full-stack Developer, diving deeper into Vue.js, React-native and Laravel every day
+### 💻 I'm currently crafting cool stuff at **Koltin** as a Software Engineer
 
 <br>
 
